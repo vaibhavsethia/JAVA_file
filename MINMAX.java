@@ -25,6 +25,7 @@ public class MINMAX{
 					MAX=array[i];
 				else 
 					continue;
+				
 			}
 			System.out.println("MAX IS : "+MAX);
 			System.out.println("MIN IS : "+MIN);	
