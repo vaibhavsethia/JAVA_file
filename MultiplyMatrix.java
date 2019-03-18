@@ -32,8 +32,6 @@ public class MultiplyMatrix
 				b[i][j] = sc.nextInt();
 			}
 		}
-		
-		//Multiplying matrix now
 		System.out.println();
 		for (int i = 0; i < 3; i++)
         		{
