@@ -18,5 +18,6 @@ public class NumberPalindrome{
 			System.out.println("PALINDROME");
 		else
 			System.out.println("NOT PALINDROME");
+		
 	}
 }
